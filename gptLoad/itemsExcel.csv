@@ -1,0 +1,100 @@
+Item,Color,Size,Price
+Dress , Blue , Small ,39.99
+Dress , Red , Medium ,49.99
+Dress , Green , Large ,59.99
+Top , Black , Small ,19.99
+Top , White , Medium ,24.99
+Top , Pink , Large ,29.99
+Skirt , Purple , Small ,34.99
+Skirt , Yellow , Medium ,39.99
+Skirt , Orange , Large ,44.99
+Jeans , Dark Blue , Small ,49.99
+Jeans , Light Blue , Medium ,54.99
+Jeans , Black , Large ,59.99
+Shorts , Gray , Small ,24.99
+Shorts , Beige , Medium ,29.99
+Shorts , Brown , Large ,34.99
+Jacket , Red , Small ,79.99
+Jacket , Black , Medium ,89.99
+Jacket , Blue , Large ,99.99
+Sweater , Pink , Small ,44.99
+Sweater , Gray , Medium ,49.99
+Sweater , Green , Large ,54.99
+Shoes , White , US 6 ,29.99
+Shoes , Black , US 7 ,34.99
+Shoes , Brown , US 8 ,39.99
+Sandals , Blue , US 6 ,19.99
+Sandals , Yellow , US 7 ,24.99
+Sandals , Red , US 8 ,29.99
+Necklace , Gold , One Size ,14.99
+Necklace , Silver , One Size ,19.99
+Necklace , Rose Gold , One Size ,24.99
+Earrings , Studs , One Size ,9.99
+Earrings , Hoops , One Size ,14.99
+Earrings , Drop , One Size ,19.99
+Bracelet , Gold , One Size ,14.99
+Bracelet , Silver , One Size ,19.99
+Bracelet , Rose Gold , One Size ,24.99
+Purse , Black , One Size ,39.99
+Purse , Brown , One Size ,49.99
+Purse , Blue , One Size ,59.99
+Hat , Beanie , One Size ,14.99
+Hat , Baseball Cap , One Size ,19.99
+Hat , Fedora , One Size ,24.99
+T shirt , White , Small ,14.99
+T shirt , Black , Medium ,16.99
+T shirt , Gray , Large ,18.99
+Polo Shirt , Blue , Small ,24.99
+Polo Shirt , Red , Medium ,26.99
+Polo Shirt , Green , Large ,28.99
+Hoodie , Black , Small ,34.99
+Hoodie , Gray , Medium ,36.99
+Hoodie , Blue , Large ,38.99
+Sweatshirt , Pink , Small ,24.99
+Sweatshirt , Yellow , Medium ,26.99
+Sweatshirt , Orange , Large ,28.99
+Blouse , White , Small ,29.99
+Blouse , Red , Medium ,34.99
+Blouse , Blue , Large ,39.99
+Tank Top , Purple , Small ,19.99
+Tank Top , Yellow , Medium ,21.99
+Tank Top , Orange , Large ,23.99
+Cardigan , Green , Small ,39.99
+Cardigan , Pink , Medium ,44.99
+Cardigan , Blue , Large ,49.99
+Dress Pants , Black , 32x32 ,49.99
+Dress Pants , Gray , 34x32 ,54.99
+Dress Pants , Navy , 36x32 ,59.99
+Chinos , Beige , 32x32 ,39.99
+Chinos , Khaki , 34x32 ,44.99
+Chinos , Olive , 36x32 ,49.99
+Shorts , Blue , Small ,19.99
+Shorts , Green , Medium ,21.99
+Shorts , Gray , Large ,23.99
+Swim Trunks , Red , Small ,24.99
+Swim Trunks , Blue , Medium ,26.99
+Swim Trunks , Green , Large ,28.99
+Bikini , Pink , Small ,29.99
+Bikini , Black , Medium ,34.99
+Bikini , Blue , Large ,39.99
+One Piece Swimsuit , Red , Small ,34.99
+One Piece Swimsuit , Black , Medium ,39.99
+One Piece Swimsuit , Blue , Large ,44.99
+Sunglasses , Aviator , One Size ,19.99
+Sunglasses , Wayfarer , One Size ,24.99
+Sunglasses , Cat Eye , One Size ,29.99
+Scarf , Red , One Size ,14.99
+Scarf , Gray , One Size ,19.99
+Scarf , Blue , One Size ,24.99
+Gloves , Black , Small ,9.99
+Gloves , Gray , Medium ,12.99
+Gloves , Brown , Large ,14.99
+Belt , Black , Small ,14.99
+Belt , Brown , Medium ,19.99
+Belt , Tan , Large ,24.99
+Sunglasses , Black , One Size ,19.99
+Watch , Gold , One Size ,29.99
+Belt , Brown , Small ,14.99
+Scarf , Red , One Size ,24.99
+Tights , Black , Medium ,9.99
+Tights ,Brown,Large ,9.99
